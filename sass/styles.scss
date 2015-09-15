@@ -1,6 +1,7 @@
 $logocolor : #0099ff;
 $background:#ffffff;
 $tagline:#333333;
+$footer:#990000;
 
 body {
 background-color: $background;
@@ -16,4 +17,9 @@ color: $tagline;
 font-style: italic;
 font-weight: bold;
 font-size: 12px;
+}
+
+footer {
+font-size: 12px;
+$footer:#990000;
 }
