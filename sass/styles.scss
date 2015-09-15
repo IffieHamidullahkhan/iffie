@@ -1,0 +1,11 @@
+$logocolor : #0099ff;
+$background:#ffffff;
+
+body {
+background-color: $background;
+}
+
+h1,h2,h3,h4,h5 {
+color: $logocolor;
+font-weight: bold;
+}
