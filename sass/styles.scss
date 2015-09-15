@@ -23,3 +23,14 @@ footer {
 font-size: 12px;
 $footer:#990000;
 }
+
+.mongol:hover, .mongol:focus {
+transform: rotateY(360deg);
+transform:skew(15deg);
+transition: 1s all;
+}
+
+.iffie:hover, .iffie:focus {
+transform: rotateX(360deg);
+transition: 2s all;
+}

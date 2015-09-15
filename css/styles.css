@@ -17,3 +17,14 @@ h1, h2, h3, h4, h5 {
 /* line 22, ../sass/styles.scss */
 footer {
   font-size: 12px; }
+
+/* line 27, ../sass/styles.scss */
+.mongol:hover, .mongol:focus {
+  transform: rotateY(360deg);
+  transform: skew(15deg);
+  transition: 1s all; }
+
+/* line 33, ../sass/styles.scss */
+.iffie:hover, .iffie:focus {
+  transform: rotateX(360deg);
+  transition: 2s all; }
