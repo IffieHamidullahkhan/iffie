@@ -1,8 +1,15 @@
-/* line 4, ../sass/styles.scss */
+/* line 5, ../sass/styles.scss */
 body {
   background-color: #ffffff; }
 
-/* line 8, ../sass/styles.scss */
+/* line 9, ../sass/styles.scss */
 h1, h2, h3, h4, h5 {
   color: #0099ff;
   font-weight: bold; }
+
+/* line 14, ../sass/styles.scss */
+.tagline {
+  color: #333333;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 12px; }

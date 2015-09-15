@@ -1,5 +1,6 @@
 $logocolor : #0099ff;
 $background:#ffffff;
+$tagline:#333333;
 
 body {
 background-color: $background;
@@ -8,4 +9,11 @@ background-color: $background;
 h1,h2,h3,h4,h5 {
 color: $logocolor;
 font-weight: bold;
+}
+
+.tagline {
+color: $tagline;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
 }
